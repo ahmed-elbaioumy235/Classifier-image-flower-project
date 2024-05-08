@@ -1,5 +1,5 @@
 
-# # # Flower Species Recognition with Deep Learning
+# Flower Species Recognition with Deep Learning
 This project aims to develop an AI application capable of recognizing different species of flowers using deep learning techniques. The application can be integrated into various platforms, such as mobile apps, to provide users with information about the flowers they encounter. By leveraging a pre-trained image classifier trained on a dataset containing 102 flower categories, the application can accurately identify different types of flowers from images captured by the user's device.
 
 # Project Structure
